@@ -1,0 +1,363 @@
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll.config
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe.config
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.rsp
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe.config
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.rsp
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.AppContext.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Collections.Immutable.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Console.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Compression.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Reflection.Metadata.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.AccessControl.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Claims.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.ValueTuple.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe.config
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.rsp
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe.config
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\ICSharpCode.SharpZipLib.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\log4net.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.Web.Infrastructure.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Razor.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\WebGrease.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\log4net.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Razor.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csprojAssemblyReference.cache
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CoreCompileInputs.cache
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CopyComplete
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.pdb
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\EPPlus.dll
+E:\MesawyIti\16_IFC\Mesawy Projects\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\EPPlus.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll.config
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe.config
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csc.rsp
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe.config
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\csi.rsp
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Managed.Core.targets
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.AppContext.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Collections.Immutable.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Console.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Compression.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Reflection.Metadata.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.AccessControl.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Claims.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Principal.Windows.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.ValueTuple.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XmlDocument.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe.config
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\vbc.rsp
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe.config
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\EPPlus.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\ICSharpCode.SharpZipLib.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\log4net.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.Web.Infrastructure.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Razor.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\WebGrease.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\EPPlus.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Esent.Interop.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\log4net.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.Razor.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Common.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.IO.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.pdb
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csprojAssemblyReference.cache
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CoreCompileInputs.cache
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CopyComplete
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.dll
+M:\ITI\IFC\CEI.IfcXBimWexplorer\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll.config
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\CEI.IfcXBimWexplorer.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csc.exe.config
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csc.rsp
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csi.exe.config
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\csi.rsp
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.AppContext.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Collections.Immutable.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Console.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Compression.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.IO.Pipes.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Reflection.Metadata.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.AccessControl.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Claims.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.ValueTuple.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\vbc.exe.config
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\vbc.rsp
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\roslyn\VBCSCompiler.exe.config
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\EPPlus.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Esent.Interop.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\ICSharpCode.SharpZipLib.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\log4net.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Microsoft.Web.Infrastructure.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Razor.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\WebGrease.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Common.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.IO.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\EPPlus.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Esent.Interop.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Esent.Interop.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\log4net.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Helpers.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Mvc.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Optimization.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.Razor.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Deployment.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Web.WebPages.Razor.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Newtonsoft.Json.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Antlr3.Runtime.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.CobieExpress.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Common.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Common.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Geometry.Engine.Interop.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc.Extensions.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc2x3.IO.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Ifc4.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.IO.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.IO.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.ModelGeometry.Scene.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.pdb
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Xbim.Tessellator.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\System.Diagnostics.DiagnosticSource.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csprojAssemblyReference.cache
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CoreCompileInputs.cache
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.csproj.CopyComplete
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.dll
+E:\MesawyIti\16_IFC\CEI.IfcXBimWexplorer-v3\CEI.IfcXBimWexplorer\obj\Debug\CEI.IfcXBimWexplorer.pdb

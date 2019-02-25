@@ -1,0 +1,525 @@
+﻿
+@{
+    ViewBag.Title = "Viewer";
+}
+
+@*<h2>Viewer</h2>*@
+
+<head>
+    <title>Hello building!</title>
+    <script src="../Scripts/XBIM/xbim-viewer.debug.bundle.js"></script>
+
+    <script src="../Scripts/XBIM/Plugins/NavigationCube/xbim-navigation-cube-shaders.debug.js"></script>
+    <script src="../Scripts/XBIM/Plugins/NavigationCube/xbim-navigation-cube.debug.js"></script>
+    <script src="../Scripts/XBIM/Plugins/NavigationCube/xbim-navigation-cube-textures.debug.js"></script>
+    <script src="../Scripts/XBIM/Plugins/NavigationHome/xbim-navigation-home-textures.debug.js"></script>
+    <script src="../Scripts/XBIM/Plugins/NavigationHome/xbim-navigation-home.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-product-type.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-state.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-shaders.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-model-geometry.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-model-handle.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-binary-reader.debug.js"></script>
+    <script src="../Scripts/XBIM/Viewer/xbim-triangulated-shape.debug.js"></script>
+
+</head>
+
+<body>
+    <div class="myContainer">
+        @* --------------------------------  Left Panel  -------------------------------- *@
+        <div class="myViewer">
+            <div id="content">
+                @* ----- FPS  ------- *@
+                <div style="position:absolute; padding:30px;">
+                    <label id="productId"> </label>
+                    <label id="fps"> </label>
+                </div>
+                <script>
+                    viewer.on('fps', function (fps) {
+                        var span = document.getElementById('fps');
+                        if (span) {
+                            span.innerHTML = "Frames Per Seconf :" + fps;
+                        }
+                    });
+                </script>
+
+                @*<script>
+                viewer.on('pick', function (args) {
+                    var id = args.id;
+                    viewer.setCameraTarget(id);
+                    pickedId = id;
+                });
+                </script>*@
+
+                <canvas id="viewer"></canvas>
+                <script type="text/javascript">
+                var viewer = new xViewer('viewer');
+                //viewer.load('../data/SapWebmm.wexbim');
+                viewer.load('@System.Configuration.ConfigurationManager.AppSettings["wexBIMFullPath"]');
+
+                //  Navigator Cube
+                var navCube = new xNavigationCube();
+                navCube.ratio = 0.1;
+                viewer.addPlugin(navCube);
+
+                //  Camera position and target
+                viewer.on('pick', function (args) {
+                    var id = args.id;
+                    viewer.setCameraTarget(id);
+                    pickedId = id;
+                });
+
+                viewer.start();
+                </script>
+            </div>
+        </div>
+
+        @* --------------------------------   Right Panel  -------------------------------- *@
+        <div class="myControllers" style="border-left: 2.5px solid #808080;">
+
+            @* ----- TITLEEEEE  ------- *@
+                 <div class="myTitle test" style="padding-top: 0;">
+                     <img src="~/images/game.png" style="width:70%;"/>
+                </div>
+
+                @* ----- Camera  ------- *@
+                <div class="myCamera test">
+                    <button onclick="SetCamera()" class="btn btn-group-vertical"><span class="glyphicon glyphicon-camera"></span>  Set</button>
+                    <div class="input-group input-camera" style="width: 72%;">
+                        <input type="text" id="camX" value="-15000" />
+                        <input type="text" id="camY" value="-15000" />
+                        <input type="text" id="camZ" value="15000" />
+                    </div>
+
+                    <script type="text/javascript">
+                        function SetCamera() {
+                            if (viewer) {
+                                var iX = document.getElementById('camX');
+                                var iY = document.getElementById('camY');
+                                var iZ = document.getElementById('camZ');
+                                viewer.setCameraPosition([iX.value, iY.value, iZ.value]);
+                            }
+                        }
+                    </script>
+                </div>
+
+                @* ----- Cube Navigation  ------- *@
+                <div class="myNavigationCube test">
+                    <div>
+                        <button onclick="if (viewer) viewer.show('front');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Front</button>
+                        <button onclick="if (viewer) viewer.show('back');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Back</button>
+                        <button onclick="if (viewer) viewer.show('top');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Top</button>
+                    </div>
+                    <div>
+                        <button onclick="if (viewer) viewer.show('bottom');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Bottom</button>
+                        <button onclick="if (viewer) viewer.show('left');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Left</button>
+                        <button onclick="if (viewer) viewer.show('right');" class="btn btn-group-vertical"><span class="glyphicon glyphicon-modal-window"></span>  Right</button>
+                    </div>
+                </div>
+
+                @* ----- Views Navigation  ------- *@
+                <div class="myNavigationView test">
+                    <div>
+                        <button onclick="if (viewer) viewer.navigationMode = 'orbit';" class="btn btn-group-vertical"><span class="glyphicon glyphicon-screenshot"></span>  Orbit</button>
+                        <button onclick="if (viewer) viewer.navigationMode = 'free-orbit';" class="btn btn-group-vertical" style="width:101px;"><span class="glyphicon glyphicon-repeat"></span>  Free Orbit</button>
+                        <button onclick="if (viewer) viewer.navigationMode = 'pan';" class="btn btn-group-vertical" style="width:80px;"><span class="glyphicon glyphicon-move"></span>  Pan</button>
+                    </div>
+                    <div>
+                        <button onclick="if (viewer) viewer.navigationMode = 'zoom';" class="btn btn-group-vertical"><span class="glyphicon glyphicon-zoom-in"></span>  Zoom</button>
+                        <button onclick="if (viewer) viewer.navigationMode = 'none';" class="btn btn-group-vertical " id="none" style="width:186px;"><span class="glyphicon glyphicon-ban-circle"></span>  Disable Navigation</button>
+                    </div>
+                </div>
+
+                @* ----- Clipping  ------- *@
+                <div class="myClipping test">
+                    <button onclick="if (viewer) viewer.clip();" style="width:193px;" class="btn btn-group-vertical"><span class="glyphicon glyphicon-scissors"></span>  Interactive clipping</button>
+                    <button onclick="if (viewer) viewer.unclip();" class="btn btn-group-vertical"><span class="glyphicon glyphicon-fullscreen"></span>  Unclip</button>
+                   
+                    <div class="input-group" style="display:flex; flex-direction:row; justify-content:space-around">
+                        <div style="flex:25%;">
+                            <button onclick="Clip()" class="btn btn-group-vertical" style="height:100%; width: 100%;"><span class="glyphicon glyphicon-scissors"></span>  Clip</button>
+                        </div>
+                        <div style="flex:75%; margin-left:5px;">
+                            <div class="input-rotation">
+                                <span style="width=65px; color:lightgray;">Rotation</span>
+                                <input type="text" id="clipOrigX" value="0" />
+                                <input type="text" id="clipOrigY" value="0" />
+                                <input type="text" id="clipOrigZ" value="0" />
+                            </div>
+                            <div class="input-position">
+                                <span style="width=50px; color:lightgray;">Location</span>
+                                <input type="text" id="clipNormX" value="-1" />
+                                <input type="text" id="clipNormY" value="0" />
+                                <input type="text" id="clipNormZ" value="0" />
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <script type="text/javascript">
+                        function Clip() {
+                            var oX = document.getElementById('clipOrigX').value;
+                            var oY = document.getElementById('clipOrigY').value;
+                            var oZ = document.getElementById('clipOrigZ').value;
+
+                            var nX = document.getElementById('clipNormX').value;
+                            var nY = document.getElementById('clipNormY').value;
+                            var nZ = document.getElementById('clipNormZ').value;
+
+                            if (viewer)
+                                viewer.clip([oX, oY, oZ], [nX, nY, nZ]);
+                        }
+                    </script>
+                </div>
+
+                @* -----    ReColor Mode  ------- *@
+                <div class="myRecolor test">
+                    <button onclick="Recolour()" class="btn btn-group-vertical"><span class="glyphicon glyphicon-tint"></span>  Recolour by Type</button>
+                    <button onclick="if (viewer) viewer.resetStyles();" class="btn btn-group-vertical"><span class="glyphicon glyphicon-cog"></span>  Reset Styles</button>
+
+                    <script type="text/javascript">
+                        function Recolour() {
+                            if (!viewer) return;
+                            var index = 0;
+                            for (var i in xProductType) {
+                                var type = xProductType[i];
+                                var colour = [Math.random() * 255, Math.random() * 255, Math.random() * 255, 255];
+                                viewer.defineStyle(index, colour);
+                                viewer.setStyle(index, type);
+                                index++;
+                            }
+                        };
+                    </script>
+                </div>
+                @* -----    Rendering Mode  ------- *@
+                <div class="myRendering test" >
+                    <div>Rendering Mode</div>
+                    
+                    <div class="btn-group" role="group" aria-label="...Rendering mode" style="width:49%">
+                        <button type="button" name="rRenderingMode" class="btn btn-default " id="normalModel" onclick="if (viewer) viewer.renderingMode = 'normal';">Normal</button>
+                        <button type="button" name="rRenderingMode" class="btn btn-default" id="xRayModel"onclick="if (viewer) viewer.renderingMode = 'x-ray';">X-Ray</button>
+                    </div>
+                   
+                    @*<label>
+                    <input type="radio" name="rRenderingMode" checked="checked"
+                           onchange="if (viewer) viewer.renderingMode = 'normal';" />
+                    Normal
+                    </label>
+                    <label>
+                        <input type="radio" name="rRenderingMode"
+                               onchange="if (viewer) viewer.renderingMode = 'x-ray';" />
+                        X-Ray
+                    </label>*@
+                </div>
+
+                @* -----    Drop Down  ------- *@
+                <div class="myHide test " style="display:block">
+                    <div style="height:20px;display:inline">
+                        <button onclick="if (viewer) viewer.resetStates()" class="btn btn-group-vertical"><span class="glyphicon glyphicon-tags"></span>  Show all</button>
+                    </div>
+                    <div style="height:20px;display:inline">
+                        <select id="cmbHide" class="form-control" style="width:58%;display:inline">
+                            <option value="noAction">No action</option>
+                            <option value="hideProduct">Hide product</option>
+                            <option value="hideType">Hide type</option>
+                            <option value="highlight">Highlight</option>
+                        </select>
+
+                    </div>
+                    
+                    <script type="text/javascript">
+                        var timer = 0;
+                        viewer.on('pick', function (args) {
+                            var id = args.id;
+                            viewer.setCameraTarget(id);
+                            pickedId = id;
+                            document.getElementById('hiddenId').value = id;
+                            var span = document.getElementById('productId');
+                            if (span) {
+                                span.innerHTML = "Selected Product Id = " + id;
+                            }
+
+                            var cmb = document.getElementById('cmbHide');
+                            var option = cmb.value;
+                            switch (option) {
+                                case 'hideProduct':
+                                    viewer.setState(xState.HIDDEN, [args.id]);
+                                    break;
+                                case 'hideType':
+                                    var type = viewer.getProductType(args.id);
+                                    viewer.setState(xState.HIDDEN, type);
+                                    break;
+                                case 'highlight':
+                                    viewer.setState(xState.HIGHLIGHTED, [args.id]);
+                                    break;
+                                default:
+                                    break;
+                            }
+
+                            var time = (new Date()).getTime();
+                            if (time - timer < 200)
+                                viewer.zoomTo(id);
+                            timer = time;
+
+                        });
+                    </script>
+                </div>
+
+                @* ----- Modify Mode  ------- *@
+                <div class="myHide test myModify">
+                    @using (Html.BeginForm("Modify", "Home", FormMethod.Post, new { id = "myForm" }))
+                    {
+                        <button onclick="SubmitData(event)" class="btn btn-group-vertical"><span class="glyphicon glyphicon-edit"></span>  Modify Section</button>
+                        <div style="display: inline;">
+                            <input name="hiddenId" type="hidden" id="hiddenId" />
+                            <input name="newX" type="text" id="newX" value="40"/>
+                            <input name="newY" type="text" id="newY"  value="30"/>
+                        </div>
+                        @*<input type="submit" onclick="SubmitData(event)" value="Modify CrossSection" />*@
+                    }
+                    <script>
+                        function SubmitData(e) {
+                            e.preventDefault();
+
+                            var pId = document.getElementById("hiddenId").value;
+                            var newX = document.getElementById("newX").value;
+                            var newY = document.getElementById("newY").value;
+
+                            // Your Logic
+                            var f = $('#myForm');
+                            f.submit();
+                        }
+                    </script>
+                </div>
+            </div>
+        </div>
+
+</body>
+
+<script>
+    var btnDisable = document.getElementById("none");
+
+    btnDisable.addEventListener("click", function () {
+        btnDisable.classList.toggle("none")
+        btnDisable.classList.toggle("disabled")
+
+        if (!btnDisable.classList.contains("none")) {
+            viewer.navigationMode = 'orbit';
+        } 
+    });
+
+
+
+    //var btnNormalMode = document.getElementById(normalModel);
+    //var btnXRayMode = document.getElementById(xRayModel);
+
+    //btnNormalMode.addEventListener("click", function () {
+    //    if (viewer.renderingMode == 'x-ray') {
+    //        btnNormalMode.classList.add("myActive");
+    //        btnXRayMode.classList.remove("myActive");
+    //    } else if(viewer.renderingMode == 'normal ') {
+    //        btnXRayMode.classList.add("myActive");
+    //        btnNormalMode.classList.remove("myActive");
+    //    }
+    //    }
+    //});
+
+    //btnXRayMode.addEventListener("click", function () {
+    //    if (viewer.renderingMode == 'x-ray') {
+    //        btnNormalMode.classList.add("myActive");
+    //        btnXRayMode.classList.remove("myActive");
+    //    } else if (viewer.renderingMode == 'normal ') {
+    //        btnXRayMode.classList.add("myActive");
+    //        btnNormalMode.classList.remove("myActive");
+    //    }
+    //}
+    //});
+
+</script>
+
+@*---------     My Styles   --------- *@
+<style>
+    body {
+        background-color: #808080;
+    }
+    ..navbar-inverse {
+        background-color: #808080;
+    }
+    .myActive {
+        border: 1.2px solid #02024f;
+    }
+    .myControllers button {
+        color: #02024f;
+        outline: none;
+    }
+    .myControllers button:focus {
+        outline: none;
+    }
+    .myControllers button:hover {
+        border: 1.2px solid #02024f;
+        color: #02024f;
+        background-color: #efefef;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        transition-duration: 0.4s;
+    }
+    .myControllers {
+        display: flex;
+        flex-direction: column;
+        background-image: url("~/images/background.png");
+        background-size: cover;
+        filter: opacity(.8);
+    }
+    .test {
+        /*height: 90px;*/
+        width: 100%;
+        background-color: #bababa;
+        padding: 0px 20px;
+        border-bottom: 0.5px solid #808080;
+        align-content: center;
+        /*margin-top: 10px;
+        margin-bottom: 10px;*/
+    }
+
+    .myNavigationView .none:hover{
+        color:green;
+        border-color:green;
+    }
+    .myNavigationView .none {
+        color: rgba(0,0,0,0.7);
+        background-color: #8e8e8e;
+    }
+    .disabled:hover {
+        cursor: pointer;
+    }
+    .myCamera input {
+        width: 70px;
+        height: 30px;
+        /*margin: 10px 0 0 5px;*/
+        /*margin-left: 5px;*/
+        padding: 10px 10px;
+        font-family: sans-serif;
+        font-size: 15px;
+        background-color: #8e8e8e;
+        color: floralwhite;
+        border: none;
+        border-bottom: 2px solid #5d5d5d;
+        border-radius: 2px;
+        /* color: grey; */
+        /* background: transparent; */
+        outline: none;
+    }
+    .input-camera, .input-position, .input-rotation {
+        display: inline-flex;
+        justify-content: space-evenly;
+        background-color: black;
+        align-items: center;
+        /*border: 1.5px solid #868686;*/
+    }
+    .myNavigationCube button {
+        width: 90px;
+        margin-right: 5px;
+        margin-bottom: 2px;
+        justify-content: flex-start
+    }
+    .myNavigationView button {
+        width: 95px;
+        margin-right: 1.5px;
+        margin-bottom: 2px;
+    }
+
+    .myClipping button {
+        width: 90px;
+        margin-bottom: 2px;
+        justify-content: flex-start
+    }
+    .myClipping input {
+        width: 50px;
+        height: 30px;
+        /*margin: 10px 0 0 5px;*/
+        /*margin-left: 5px;*/
+        padding: 10px 10px;
+        font-family: sans-serif;
+        font-size: 15px;
+        background-color: #8e8e8e;
+        color: floralwhite;
+        border: none;
+        border-bottom: 2px solid #5d5d5d;
+        border-radius: 2px;
+    }
+    .myRendering {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .myModify input {
+        width: 70px;
+        height: 30px;
+        /*margin: 10px 0 0 5px;*/
+        /*margin-left: 5px;*/
+        padding: 10px 10px;
+        font-family: sans-serif;
+        font-size: 15px;
+        background-color: #8e8e8e;
+        color: floralwhite;
+        border: none;
+        border-bottom: 2px solid #5d5d5d;
+        border-radius: 2px;
+        /* color: grey; */
+        /* background: transparent; */
+        outline: none;
+    }
+
+
+    /*---------   My Code Style  -----------*/
+    .myContainer {
+        display: flex;
+    }
+
+    #content {
+        position: relative;
+    }
+
+    .myControllers {
+        flex: 25%;
+        background-color: #808080;
+        height: calc(100vh - 100px);
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .myControllers .test{
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .myViewer {
+        flex: 75%;
+        width: 100%;
+        height: calc(100vh - 100px);
+    }
+    .myTitle {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 55px;
+        align-items: center;
+    }
+    /*------------ WexBim -----------*/
+    #viewer {
+        width: 100%;
+        height: calc(100vh - 100px);
+    }
+
+
+    body {
+        height: 100vh;
+        width: 100vw;
+    }
+    footer {
+        padding-top:10px;
+        font-size:large;
+        display:flex;
+        justify-content:center;
+        /*background-color:dimgrey*/
+    }
+</style>

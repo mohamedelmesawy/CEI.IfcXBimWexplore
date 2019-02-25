@@ -1,0 +1,225 @@
+﻿@model ColumnViewModel
+@{
+
+    ViewBag.Title = "Uploader";
+}
+<h3 class="fromtitle">Upload Your File</h3>
+
+<div class="formcontainer">
+    <div class="form-group form1">
+        @using (Html.BeginForm("Uploader", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div>
+                <img src="../images/19.jpg">
+            </div>
+            <div>
+                <label class="custom-file-upload" onclick="changeText">
+                    <span class="glyphicon glyphicon-upload"></span>   <input type="file" name="file" id="file" accept=".ifc" />Upload IFC File
+                </label>
+            </div>
+            <div>
+                <input type="submit" class=" subbtn1 btn btn-success" />
+            </div>
+
+
+        }
+    </div>
+    <div class="form-group form2">
+        @using (Html.BeginForm("Uploader", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div>
+                <img src="../images/20.jpg">
+            </div>
+            <div>
+                <label class="custom-file-upload" onclick="changeText">
+                    <span class="glyphicon glyphicon-upload"></span>   <input type="file" name="file" id="file" accept=".xlsx" />Upload 3D Excel File
+                </label>
+            </div>
+            <div>
+                <input type="submit" class=" subbtn2 btn btn-success" />
+            </div>
+        }
+    </div>
+    <div class="form-group form3">
+        @using (Html.BeginForm("Uploader", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div>
+                <img src="../images/21.jpg">
+            </div>
+            <div>
+                <label class="custom-file-upload" onclick="changeText">
+                    <span class="glyphicon glyphicon-upload"></span>   <input type="file" name="file" id="file" accept=".xlsx" />Upload 2D Excel File
+                </label>
+            </div>
+
+            <div class="formcontent">
+                <div class="columndatalabels">
+                    <div>
+                        @Html.LabelFor(e => e.Width, new { @class = "labels" })
+                    </div>
+                    <div>
+                        @Html.LabelFor(e => e.Length, new { @class = "labels" })
+                    </div>
+                    <div>
+                        @Html.LabelFor(e => e.Height, new { @class = "labels" })
+                    </div>
+                </div>
+
+                <div class="columndata">
+                    @Html.TextBoxFor(e => e.Width, new { @class = "form-control" })
+                    @Html.TextBoxFor(e => e.Length, new { @class = "form-control" })
+                    @Html.TextBoxFor(e => e.Height, new { @class = "form-control" })
+
+                </div>
+                <div class="columndatavalidate">
+                    @Html.ValidationMessageFor(m => m.Width, "", new { @class = "validation" })
+                    @Html.ValidationMessageFor(m => m.Length, "", new { @class = "validation" })
+                    @Html.ValidationMessageFor(m => m.Height, "", new { @class = "validation" })
+                </div>
+                <div>
+                    <input type="submit" class="subbtn3 btn btn-success" />
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<script>
+    function changeText(id) {
+        var file = document.getElementById("file");
+        var inputText = document.getElementById("inputText");
+        inputText.textContent = file.textContent;
+    }
+</script>
+<style>
+
+    input[type = "file"] {
+        display: none;
+    }
+
+    .field-validation-error {
+        color: red;
+    }
+
+    .fromtitle {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5px;
+        margin-top: 10px;
+        border-bottom: solid gray 1px;
+        padding-bottom: 8px;
+    }
+
+    .custom-file-upload {
+        border: 1px solid #ccc;
+        color: black;
+        border: solid darkgray 2px;
+        border-radius: 2px;
+        display: inline-block;
+        padding: 6px 12px;
+        cursor: pointer;
+        background-color: white;
+    }
+
+        .custom-file-upload:hover {
+            color: white;
+            background-color: black;
+            border: solid green 2px;
+        }
+
+    .formcontainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 75%;
+        height: 15%;
+        position: relative;
+        top: 10%;
+        left: 2%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .form1, .form2, .form3 {
+        display: flex;
+        flex-direction: column;
+        /*border: solid 2px green;
+        border-radius: 15px;*/
+        background-color: lightgray;
+        justify-content: space-between;
+        padding: 10px;
+        margin: 10px;
+        /*flex: 30%;*/
+        position: relative;
+        height: 15%;
+    }
+
+
+    .subbtn3 {
+        width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+        text-size-adjust: 200%;
+        display: inline-block;
+        /*position: absolute;
+        left: 0;
+        bottom: -45px;*/
+    }
+
+    .subbtn1, .subbtn2 {
+        width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
+        text-align: center;
+        text-size-adjust: 200%;
+        display: inline-block;
+        /*position: absolute;
+        left: 0;
+        bottom: -65px;*/
+    }
+
+    label {
+        width: 100%;
+        text-align: center;
+    }
+
+    img {
+        width: 100%;
+        border-image: 20 round;
+        height: 270px;
+    }
+
+    footer {
+        border-top: solid gray 1px;
+        border-bottom: solid gray 1px;
+        padding-top: 5px;
+        font-size: large;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .columndata {
+        display: flex;
+        margin-bottom: 8px;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .columndatavalidate {
+        display: flex;
+        margin-bottom: 2px;
+        margin-top: 0;
+        padding-top: 0;
+        font-size: 80%;
+    }
+
+    .columndatalabels {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+</style>
